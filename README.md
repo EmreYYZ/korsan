@@ -1,6 +1,6 @@
 ### Indirmeciler & sistemciler
 - - -
-Sonarr: https://github.com/Sonarr/Sonarr  
+Sonarr: <https://github.com/Sonarr/Sonarr>  
 Radarr: https://github.com/Radarr/Radarr  
 Sabnzb: https://github.com/sabnzbd/sabnzbd  
 Trakt: https://trakt.tv/  

@@ -1,4 +1,4 @@
-### Indirmeciler & sistemciler
+### Downloaderlar & Otomasyoncular & Takipciler 
 - - -
 Sonarr: <https://github.com/Sonarr/Sonarr>  
 Radarr: <https://github.com/Radarr/Radarr>  

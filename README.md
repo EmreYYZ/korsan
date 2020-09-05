@@ -10,6 +10,7 @@ Trakt: <https://trakt.tv/>
 Drunkenslug: <https://drunkenslug.com/>  
 NZBFinder: <https://nzbfinder.ws/>  
 NZBgeek: <https://nzbgeek.info/>  
+NZB.su: <https://nzb.su/>
 
 ### Providerlar
 - - -

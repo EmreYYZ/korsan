@@ -2,11 +2,16 @@
 - - -
 Sabnzb: <https://github.com/sabnzbd/sabnzbd>  
 
+### Arama
+- - -
+NZBHydra2: <https://github.com/theotherp/nzbhydra2>  
+Sonarr: <https://github.com/Sonarr/Sonarr>  
+Radarr: <https://github.com/Radarr/Radarr>  
+
 ### Otomasyon
 - - -
 Sonarr: <https://github.com/Sonarr/Sonarr>  
 Radarr: <https://github.com/Radarr/Radarr>  
-Trakt: <https://trakt.tv/>  
 
 ### Takip & Cetele
 - - -
@@ -33,6 +38,3 @@ KODI: <https://kodi.tv/>
 - - -
 Amazon Fire TV Stick 4K(4K + HDR support + KODI yuklenebiliyor): <https://www.amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21>  
 
-### Ekstra
-- - -
-NZBHydra2 (Google gibi. Verilen indexerlarda arama yapiyor. Program): <https://github.com/theotherp/nzbhydra2>  

@@ -1,8 +1,15 @@
-### Downloaderlar & Otomasyoncular & Takipciler 
+### Downloader
+- - -
+Sabnzb: <https://github.com/sabnzbd/sabnzbd>  
+
+### Otomasyon
 - - -
 Sonarr: <https://github.com/Sonarr/Sonarr>  
 Radarr: <https://github.com/Radarr/Radarr>  
-Sabnzb: <https://github.com/sabnzbd/sabnzbd>  
+Trakt: <https://trakt.tv/>  
+
+### Takip & Cetele
+- - -
 Trakt: <https://trakt.tv/>  
 
 ### Indexerlar
@@ -18,6 +25,14 @@ Eweka: <https://www.eweka.nl/en>
 UsenetExpress: <https://www.usenetexpress.com/>  
 UsenetServer: <https://www.usenetserver.com/>  
 
+### Izleme
+- - -
+KODI: <https://kodi.tv/>  
+
+### Hardware
+- - -
+Amazon Fire TV Stick 4K(4K + HDR support + KODI yuklenebiliyor): <https://www.amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21>  
+
 ### Ekstra
 - - -
-NZBHydra2: <https://github.com/theotherp/nzbhydra2>  
+NZBHydra2 (Google gibi. Verilen indexerlarda arama yapiyor. Program): <https://github.com/theotherp/nzbhydra2>  

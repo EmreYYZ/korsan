@@ -10,7 +10,7 @@
   - [📒 Takip](#takip)
   - [📚 Arsivciler (Indexers)](#arsivciler-indexers)
   - [🏦 Barindiricilar (Providers)](#barindiricilar-providers)
-  - [👁️ Izleme Yazilimlari](#Izleme-Yazilimlari)
+  - [👁️ Izleme Yazilimlari](#%EF%B8%8F-izleme-yazilimlari)
   - [📺 Donanim](#donanim)
   - [🧰 Diger Araclar](#diger-araclar)
   - [🍿 Film Listeleri](#film-listeleri)

@@ -2,7 +2,7 @@
 
 # 👋 Giris
 
-Korsan listeme hosgeldiniz. Bu rehberi [anglosphere](https://en.wikipedia.org/wiki/Anglosphere) medyasindan tiksinmeye basladigim icin yapmaya karar verdim. Benim icin ne kadar az para kazanirlarsa o kadar iyi. Yani bu liste ne kadar cok kisinin isine yararsa o kadar iyi.
+Korsan listeme hosgeldiniz. Bu rehberi [anglosphere](https://en.wikipedia.org/wiki/Anglosphere) medyasinin propagandasindan hoslanmadigim icin yapmaya karar verdim. Benim icin ne kadar az para kazanirlarsa o kadar iyi.
 
 Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kendi korsan workflow'umu, hangi araci ne icin kullandigimi da paylastim.
 
@@ -14,7 +14,7 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kend
 
 🥉 En iyiyi ve sonrakini kullanamiyorsaniz, kullanilabilecek iyi bir tercih.
 
-## Icindekiler
+## 📝 Icindekiler
 
 - [👋 Giris](#giris)
 - [🌐 Usenet](#usenet)

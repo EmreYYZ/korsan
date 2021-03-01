@@ -1,6 +1,4 @@
-# Emre'nin Mega Korsan Listesi
-
-# 👋 Giris
+# 👋 Mega Korsan Listesi
 
 Korsan listeme hosgeldiniz. Bu rehberi [anglosphere](https://en.wikipedia.org/wiki/Anglosphere) medyasinin propagandasindan hoslanmadigim icin yapmaya karar verdim. Benim icin ne kadar az para kazanirlarsa o kadar iyi.
 

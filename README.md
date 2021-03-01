@@ -27,7 +27,9 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kend
 #### Gostergeler
 
 🥇 Bana gore alaninda en iyisi.
+
 🥈 Herhangi bir sekilde en iyiyi kullanamiyorsaniz, kullanilabilecek iyi bir tercih.
+
 🥉 En iyiyi ve sonrakini kullanamiyorsaniz, kullanilabilecek iyi bir tercih.
 
 # 🌐 Usenet

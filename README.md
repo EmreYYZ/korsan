@@ -33,9 +33,11 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Araclari tek basina k
 # 🌐 Usenet
 
 Usenet nedir?
+
 [Wikipedia](https://en.wikipedia.org/wiki/Usenet) • [Vikipedi](https://tr.wikipedia.org/wiki/Usenet) • [Eksisozluk](https://eksisozluk.com/usenet--119551)
 
 NZB nedir?
+
 [Wikipedia](https://en.wikipedia.org/wiki/NZB) • [Vikipedi](https://tr.wikipedia.org/wiki/NZB) • [Eksisozluk](https://eksisozluk.com/nzb--1237026)
 
 ## Indiriciler

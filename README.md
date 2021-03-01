@@ -2,7 +2,7 @@
 
 Korsan listeme hosgeldiniz. Bu rehberi [anglosphere](https://en.wikipedia.org/wiki/Anglosphere) medyasindan hoslanmadigim icin hazirlamaya karar verdim. Benim icin ne kadar az para kazanirlarsa o kadar iyi.
 
-Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kendi korsan workflow'umu, hangi araci ne icin kullandigimi da paylastim.
+Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Araclari tek basina kullanmanin bir anlami yok, grup halinde kullanmak gerekiyor
 
 ### Gostergeler
 
@@ -23,9 +23,11 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kend
   - [📚 Arsivciler (Indexers)](#arsivciler-indexers)
   - [🏦 Barindiricilar (Providers)](#barindiricilar-providers)
   - [👁️ Izleme Yazilimlari](#izleme-yazilimlari)
-  - [📺 Donanim](#donanim)
+  - [📺 Izleme Donanimi](#izleme-donanimlari)
   - [🧰 Diger Araclar](#diger-araclar)
   - [🍿 Film Listeleri](#film-listeleri)
+  - [Ilgili Subredditler](#ilgili-subredditler)
+- [👨 Benim Korsan Duzenim](#benim-korsan-duzenim)
 - [📋 Yapilacaklar Listesi](#yapilacaklar-listesi)
 
 # 🌐 Usenet
@@ -76,7 +78,7 @@ Izleme yazilimlari, bulundugunuz veya ag uzerindeki depolama araclarindan indird
 
 🥇 [Infuse](https://firecore.com/infuse/) • 🥈 [Kodi](https://kodi.tv/) • 🥈 [Plex](https://www.plex.tv)
 
-## Donanim
+## Izleme Donanimlari
 
 Izleme yazilimlarini yukleyip, indirdiginiz icerikleri Netflix kullanirmis gibi, ayni rahatlikla izleyebileceginiz donanimlar. 4K, HDR ve [Izleme Yazilimlari](#izleme-yazilimlari)'ni desteklemeyenleri listeye eklemiyorum.
 
@@ -99,3 +101,5 @@ Bu film listelerini otomasyon amaciyla kullanmak icin Radarr'a ekleyebiliyorsunu
 - [ ] Stashapp ve ona uygun kategori eklenecek.
 - [ ] Altyazilar ile ilgili bilgiler ekle.
 - [ ] Torrent rehberi ekle. (?)
+- [ ] Depolama bilgileri ekle. (NAS Synology / QNAP / vb.)
+- [ ] Muzik bolumu ekle (Soulseeker, vb.)

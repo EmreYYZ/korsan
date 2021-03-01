@@ -1,7 +1,5 @@
 # Emre'nin Mega Korsan Listesi
 
----
-
 ## Icindekiler
 
 - [👋 Giris](#giris)
@@ -32,17 +30,11 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kend
 🥈 Herhangi bir sekilde en iyiyi kullanamiyorsaniz, kullanilabilecek iyi bir tercih.
 🥉 En iyiyi ve sonrakini kullanamiyorsaniz, kullanilabilecek iyi bir tercih.
 
----
-
 ## 🌐 Usenet
-
----
 
 ### 📥 Indiriciler
 
 🥇 [SABnzbd](https://github.com/sabnzbd/sabnzbd) • 🥉 [NZBVortex 3 (macOS)](https://www.nzbvortex.com/landing/)
-
----
 
 ### 🔎 Arama
 
@@ -50,19 +42,13 @@ Bu arama yazilimlarini Google gibi dusunebilirsiniz. Arama yapabilmek icin verit
 
 [NZBHydra2](https://github.com/theotherp/nzbhydra2) • [Sonarr](https://github.com/Sonarr/Sonarr) & [Radarr](https://github.com/Radarr/Radarr)
 
----
-
 ### 🤖 Otomasyon
 
 [Sonarr](https://github.com/Sonarr/Sonarr>) & [Radarr](https://github.com/Radarr/Radarr)
 
----
-
 ### 📒 Takip
 
 🥇 [Trakt.tv](https://trakt.tv/) • 🥈 [Letterboxd](https://letterboxd.com)
-
----
 
 ### 📚 Arsivciler (Indexers)
 
@@ -70,15 +56,11 @@ Arsivciler NZB kayitlarini tutarlar. Herhangi bir icerik/yazilim indirmek icin o
 
 🥇 [DrunkenSlug](https://drunkenslug.com/) • 🥈 [NZBFinder](https://nzbfinder.ws/register?ref=205634) • 🥈 [NZBgeek](https://nzbgeek.info/) • 🥉 [NZB.su](https://nzb.su/)
 
----
-
 ### 🏦 Barindiricilar (Providers)
 
 Barindiricilar (Providers), Indexer'lardan indirdiginiz NZB dosyalarinin isaret ettigi gercek dosyalari barindirir. Standart yontem birden fazla barindirici kullanmaktir, zira korsanla mucadele icin dosyalarin belli partlari silinebiliyor. Barindiricilar birbirlerini tamamliyor.
 
 🥇 [Eweka](https://www.eweka.nl/en) • 🥈 [UsenetExpress](https://www.usenetexpress.com/) • 🥈 [UsenetServer](https://www.usenetserver.com/)
-
----
 
 ### 👁️ Izleme Yazilimlari
 
@@ -86,13 +68,9 @@ Izleme yazilimlari, bulundugunuz veya ag uzerindeki depolama araclarindan indird
 
 🥇 [Infuse](https://firecore.com/infuse/) • 🥈 [Kodi](https://kodi.tv/) • 🥈 [Plex](https://www.plex.tv)
 
----
-
 ### 📺 Donanim
 
 🥇 [Apple TV 4K](https://www.apple.com/apple-tv-4k/) • 🥈 [Amazon Fire TV Stick 4K](https://www.amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21)
-
----
 
 ### 🧰 Diger Araclar
 
@@ -100,17 +78,13 @@ Bu araclari kullanmak zorunda degilsiniz. Teknik konulara hakim olmayan insanlar
 
 [Docker](https://www.docker.com) • [LinuxServer.io](https://fleet.linuxserver.io)
 
----
-
 ### 🍿 Film Listeleri
 
 Bu film listelerini otomasyon amaciyla kullanmak icin Radarr'a ekleyebiliyorsunuz. Oturup film secin diye yazmadim yani. Ornegin Steven Lu'nun IMDB 80/100 listesini Radarr'a eklediginizde, _"Son cikan filmlerden yalnizca IMDB'de 80/100 puani ve ustunu alan filmleri her gun kontrol edip otomatik olarak arsivime ekle."_ demis gibi oluyorsunuz.
 
 [Steven Lu'nun Listeleri](https://github.com/sjlu/popular-movies) • [En Son Cikan 4K Filmler](https://trakt.tv/users/giladg/lists/latest-4k-releases?sort=added,asc) • [Onerdigim Filmler](https://trakt.tv/users/emrecaydin/lists/my-recommendations?display=movie&sort=added,asc) • [IMDB Top 250](https://trakt.tv/users/mmounirou/lists/imdb-top-250-movies?sort=rank,asc)
 
----
-
-### 📋 Yapilacaklar Listesi
+# 📋 Yapilacaklar Listesi
 
 - Stashapp ve ona uygun kategori eklenecek.
 - Altyazilar ile ilgili bilgiler ekle.

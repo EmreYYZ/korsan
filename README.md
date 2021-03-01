@@ -1,10 +1,10 @@
 # 🏴‍☠️ Mega Korsan Listesi
 
-Korsan listeme hosgeldiniz. Bu rehberi [anglosphere](https://en.wikipedia.org/wiki/Anglosphere) medyasinin propagandasindan hoslanmadigim icin yapmaya karar verdim. Benim icin ne kadar az para kazanirlarsa o kadar iyi.
+Korsan listeme hosgeldiniz. Bu rehberi [anglosphere](https://en.wikipedia.org/wiki/Anglosphere) medyasindan hoslanmadigim icin hazirlamaya karar verdim. Benim icin ne kadar az para kazanirlarsa o kadar iyi.
 
 Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kendi korsan workflow'umu, hangi araci ne icin kullandigimi da paylastim.
 
-#### Gostergeler
+### Gostergeler
 
 🥇 Bana gore alaninda en iyisi.
 
@@ -22,13 +22,19 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kend
   - [📒 Takip](#takip)
   - [📚 Arsivciler (Indexers)](#arsivciler-indexers)
   - [🏦 Barindiricilar (Providers)](#barindiricilar-providers)
-  - [👁️ Izleme Yazilimlari](#%EF%B8%8F-izleme-yazilimlari)
+  - [👁️ Izleme Yazilimlari](#izleme-yazilimlari)
   - [📺 Donanim](#donanim)
   - [🧰 Diger Araclar](#diger-araclar)
   - [🍿 Film Listeleri](#film-listeleri)
 - [📋 Yapilacaklar Listesi](#yapilacaklar-listesi)
 
 # 🌐 Usenet
+
+- Usenet nedir?
+  [Wikipedia](https://en.wikipedia.org/wiki/Usenet) • [Vikipedi](https://tr.wikipedia.org/wiki/Usenet) • [Eksisozluk](https://eksisozluk.com/usenet--119551)
+
+- NZB nedir?
+  [Wikipedia](https://en.wikipedia.org/wiki/NZB) • [Vikipedi](https://tr.wikipedia.org/wiki/NZB) • [Eksisozluk](https://eksisozluk.com/nzb--1237026)
 
 ## Indiriciler
 

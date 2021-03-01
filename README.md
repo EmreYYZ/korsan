@@ -78,7 +78,7 @@ Izleme yazilimlari, bulundugunuz veya ag uzerindeki depolama araclarindan indird
 
 ## Donanim
 
-Izleme yazilimlarini yukleyip, indirdiginiz icerikleri Netflix kullanirmis gibi, ayni rahatlikla izleyebileceginiz donanimlar.
+Izleme yazilimlarini yukleyip, indirdiginiz icerikleri Netflix kullanirmis gibi, ayni rahatlikla izleyebileceginiz donanimlar. 4K, HDR ve [Izleme Yazilimlari](#izleme-yazilimlari)'ni desteklemeyenleri listeye eklemiyorum.
 
 🥇 [Apple TV 4K](https://www.apple.com/apple-tv-4k/) • 🥈 [Amazon Fire TV Stick 4K](https://www.amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21)
 

@@ -96,6 +96,6 @@ Bu film listelerini otomasyon amaciyla kullanmak icin Radarr'a ekleyebiliyorsunu
 
 # 📋 Yapilacaklar Listesi
 
-- [ ] Stashapp ve ona uygun kategori eklenecek.
-- [ ] Altyazilar ile ilgili bilgiler ekle.
-- [ ] Torrent rehberi ekle. (?)
+[ ] Stashapp ve ona uygun kategori eklenecek.
+[ ] Altyazilar ile ilgili bilgiler ekle.
+[ ] Torrent rehberi ekle. (?)

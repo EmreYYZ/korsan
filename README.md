@@ -14,7 +14,7 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kend
 
 🥉 En iyiyi ve sonrakini kullanamiyorsaniz, kullanilabilecek iyi bir tercih.
 
-## 📝 Icindekiler
+## Icindekiler
 
 - [👋 Giris](#giris)
 - [🌐 Usenet](#usenet)
@@ -30,59 +30,57 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kend
   - [🍿 Film Listeleri](#film-listeleri)
 - [📋 Yapilacaklar Listesi](#yapilacaklar-listesi)
 
----
-
 # 🌐 Usenet
 
-## 📥 Indiriciler
+## Indiriciler
 
 🥇 [SABnzbd](https://github.com/sabnzbd/sabnzbd) • 🥉 [NZBVortex 3 (macOS)](https://www.nzbvortex.com/landing/)
 
-## 🔎 Arama
+## Arama
 
 Bu arama yazilimlarini Google gibi dusunebilirsiniz. Arama yapabilmek icin veritabanina yazilimin arama yapacagi Indexerlari onceden eklemeniz gerekiyor.
 
 [NZBHydra2](https://github.com/theotherp/nzbhydra2) • [Sonarr](https://github.com/Sonarr/Sonarr) & [Radarr](https://github.com/Radarr/Radarr)
 
-## 🤖 Otomasyon
+## Otomasyon
 
 [Sonarr](https://github.com/Sonarr/Sonarr>) & [Radarr](https://github.com/Radarr/Radarr)
 
-## 📒 Takip
+## Takip
 
 🥇 [Trakt.tv](https://trakt.tv/) • 🥈 [Letterboxd](https://letterboxd.com)
 
-## 📚 Arsivciler (Indexers)
+## Arsivciler (Indexers)
 
 Arsivciler NZB kayitlarini tutarlar. Herhangi bir icerik/yazilim indirmek icin once bir Indexer'dan NZB dosyasini indirmeniz gerekir.
 
 🥇 [DrunkenSlug](https://drunkenslug.com/) • 🥈 [NZBFinder](https://nzbfinder.ws/register?ref=205634) • 🥈 [NZBgeek](https://nzbgeek.info/) • 🥉 [NZB.su](https://nzb.su/)
 
-## 🏦 Barindiricilar (Providers)
+## Barindiricilar (Providers)
 
 Barindiricilar (Providers), Indexer'lardan indirdiginiz NZB dosyalarinin isaret ettigi gercek dosyalari barindirir. Standart yontem birden fazla barindirici kullanmaktir, zira korsanla mucadele icin dosyalarin belli partlari silinebiliyor. Barindiricilar birbirlerini tamamliyor.
 
 🥇 [Eweka](https://www.eweka.nl/en) • 🥈 [UsenetExpress](https://www.usenetexpress.com/) • 🥈 [UsenetServer](https://www.usenetserver.com/)
 
-## 👁️ Izleme Yazilimlari
+## Izleme Yazilimlari
 
 Izleme yazilimlari, bulundugunuz veya ag uzerindeki depolama araclarindan indirdiginiz ve/ya duzenlediginiz icerikleri izlemenizi saglar. Bu yazilimlar icerige gore internetten poster, IMDB puani, oyuncu listesi gibi meta bilgileri indirir. Iyi izleme programlari, ekstra olarak bu icerikleri adeta Netflix gibi kategorilendirir, trend listeleri cikartir, vb.
 
 🥇 [Infuse](https://firecore.com/infuse/) • 🥈 [Kodi](https://kodi.tv/) • 🥈 [Plex](https://www.plex.tv)
 
-## 📺 Donanim
+## Donanim
 
 Izleme yazilimlarini yukleyip, indirdiginiz icerikleri Netflix kullanirmis gibi, ayni rahatlikla izleyebileceginiz donanimlar.
 
 🥇 [Apple TV 4K](https://www.apple.com/apple-tv-4k/) • 🥈 [Amazon Fire TV Stick 4K](https://www.amazon.com/Fire-TV-Stick-4K-with-Alexa-Voice-Remote/dp/B079QHML21)
 
-## 🧰 Diger Araclar
+## Diger Araclar
 
 Bu araclari kullanmak zorunda degilsiniz. Teknik konulara hakim olmayan insanlari yorabilecek seyler. Teknik bilgisi olanlarin icini rahatlatsin diye yaziyorum.
 
 [Docker](https://www.docker.com) • [LinuxServer.io](https://fleet.linuxserver.io)
 
-## 🍿 Film Listeleri
+## Film Listeleri
 
 Bu film listelerini otomasyon amaciyla kullanmak icin Radarr'a ekleyebiliyorsunuz. Oturup film secin diye yazmadim yani. Ornegin Steven Lu'nun IMDB 80/100 listesini Radarr'a eklediginizde, _"Son cikan filmlerden yalnizca IMDB'de 80/100 puani ve ustunu alan filmleri her gun kontrol edip otomatik olarak arsivime ekle."_ demis gibi oluyorsunuz.
 

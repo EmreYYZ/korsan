@@ -30,13 +30,15 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Liste sonrasinda kend
 
 # 🌐 Usenet
 
-- Usenet nedir?
-  [Wikipedia](https://en.wikipedia.org/wiki/Usenet) • [Vikipedi](https://tr.wikipedia.org/wiki/Usenet) • [Eksisozluk](https://eksisozluk.com/usenet--119551)
+Usenet nedir?
+[Wikipedia](https://en.wikipedia.org/wiki/Usenet) • [Vikipedi](https://tr.wikipedia.org/wiki/Usenet) • [Eksisozluk](https://eksisozluk.com/usenet--119551)
 
-- NZB nedir?
-  [Wikipedia](https://en.wikipedia.org/wiki/NZB) • [Vikipedi](https://tr.wikipedia.org/wiki/NZB) • [Eksisozluk](https://eksisozluk.com/nzb--1237026)
+NZB nedir?
+[Wikipedia](https://en.wikipedia.org/wiki/NZB) • [Vikipedi](https://tr.wikipedia.org/wiki/NZB) • [Eksisozluk](https://eksisozluk.com/nzb--1237026)
 
 ## Indiriciler
+
+Bunlari torrent indirme programlari gibi dusunebilirsiniz. Icine NZB atiyorsunuz, NZB'nin isaret ettigi icerigi cihaziniza indiriyor.
 
 🥇 [SABnzbd](https://github.com/sabnzbd/sabnzbd) • 🥉 [NZBVortex 3 (macOS)](https://www.nzbvortex.com/landing/)
 
@@ -52,7 +54,9 @@ Bu arama yazilimlarini Google gibi dusunebilirsiniz. Arama yapabilmek icin verit
 
 ## Takip
 
-🥇 [Trakt.tv](https://trakt.tv/) • 🥈 [Letterboxd](https://letterboxd.com)
+Izlediginiz iceriklerin cetelesini tutan, hem izleme yazilimlari ile, hem de otomasyon yazilimlari ile iletisim halinde olan websiteleri.
+
+🥇 [Trakt.tv](https://trakt.tv/) • 🥉 [Letterboxd](https://letterboxd.com)
 
 ## Arsivciler (Indexers)
 
@@ -88,7 +92,7 @@ Bu araclari kullanmak zorunda degilsiniz. Teknik konulara hakim olmayan insanlar
 
 Bu film listelerini otomasyon amaciyla kullanmak icin Radarr'a ekleyebiliyorsunuz. Oturup film secin diye yazmadim yani. Ornegin Steven Lu'nun IMDB 80/100 listesini Radarr'a eklediginizde, _"Son cikan filmlerden yalnizca IMDB'de 80/100 puani ve ustunu alan filmleri her gun kontrol edip otomatik olarak arsivime ekle."_ demis gibi oluyorsunuz.
 
-[Steven Lu'nun Listeleri](https://github.com/sjlu/popular-movies) • [En Son Cikan 4K Filmler](https://trakt.tv/users/giladg/lists/latest-4k-releases?sort=added,asc) • [Onerdigim Filmler](https://trakt.tv/users/emrecaydin/lists/my-recommendations?display=movie&sort=added,asc) • [IMDB Top 250](https://trakt.tv/users/mmounirou/lists/imdb-top-250-movies?sort=rank,asc)
+[Steven Lu'nun Listeleri](https://github.com/sjlu/popular-movies) • [En Son Cikan 4K Filmler](https://trakt.tv/users/giladg/lists/latest-4k-releases?sort=added,asc) • [Onerdigim Filmler](https://trakt.tv/users/emrecaydin/lists/my-recommendations?display=movie&sort=added,asc) • [Onerdigim Diziler](https://trakt.tv/users/emrecaydin/lists/my-recommendations?display=show&sort=added,asc) • [IMDB Top 250](https://trakt.tv/users/justin/lists/imdb-top-rated-movies?sort=rank,asc) • [En Iyi Film Akademi Odulunu Alan Filmler](https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=rank,asc) • [Daha Fazlasi...](https://trakt.tv/discover#lists)
 
 # 📋 Yapilacaklar Listesi
 

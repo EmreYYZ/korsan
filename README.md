@@ -1,3 +1,8 @@
+---
+title: 🏴‍☠️ Mega Korsan Listesi
+description: Hello to 🏴‍☠️ Mega Korsan Listesi
+---
+
 # 🏴‍☠️ Mega Korsan Listesi
 
 Korsan listeme hosgeldiniz. Bu rehberi [anglosphere](https://en.wikipedia.org/wiki/Anglosphere) medyasindan hoslanmadigim icin hazirlamaya karar verdim. Benim icin ne kadar az para kazanirlarsa o kadar iyi.

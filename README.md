@@ -98,6 +98,10 @@ Bu film listelerini otomasyon amaciyla kullanmak icin Radarr'a ekleyebiliyorsunu
 
 [Steven Lu'nun Listeleri](https://github.com/sjlu/popular-movies) • [En Son Cikan 4K Filmler](https://trakt.tv/users/giladg/lists/latest-4k-releases?sort=added,asc) • [Onerdigim Filmler](https://trakt.tv/users/emrecaydin/lists/my-recommendations?display=movie&sort=added,asc) • [Onerdigim Diziler](https://trakt.tv/users/emrecaydin/lists/my-recommendations?display=show&sort=added,asc) • [IMDB Top 250](https://trakt.tv/users/justin/lists/imdb-top-rated-movies?sort=rank,asc) • ["En Iyi Film" Akademi Odulunu Alan Filmler](https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=rank,asc) • [Daha Fazlasi...](https://trakt.tv/discover#lists)
 
+## Ilgili Subredditler
+
+[Usenet](https://www.reddit.com/r/usenet/) • [Piracy](https://www.reddit.com/r/Piracy/) • [UsenetInvites](https://www.reddit.com/r/UsenetInvites/) • [Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) • [Radarr](https://www.reddit.com/r/radarr/) • [Sonarr](https://www.reddit.com/r/sonarr) • [AppleTV](https://www.reddit.com/r/appletv/) • [PleX](https://www.reddit.com/r/PleX/) • [Kodi](https://www.reddit.com/r/kodi/)
+
 # 📋 Yapilacaklar Listesi
 
 - [ ] Stashapp ve ona uygun kategori eklenecek.

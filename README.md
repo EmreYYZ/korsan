@@ -14,6 +14,9 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Araclari tek basina k
 
 ## Icindekiler
 
+- [🏴‍☠️ Mega Korsan Listesi](#️-mega-korsan-listesi)
+    - [Gostergeler](#gostergeler)
+  - [Icindekiler](#icindekiler)
 - [🌐 Usenet](#-usenet)
   - [📥 Downloaderlar](#-downloaderlar)
   - [🔎 Arama](#-arama)
@@ -26,14 +29,8 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Araclari tek basina k
   - [🧰 Diger Araclar](#-diger-araclar)
   - [🍿 Film Listeleri](#-film-listeleri)
   - [🤡 Ilgili Subredditler](#-ilgili-subredditler)
-- [👨 Benim Korsan Duzenim](#benim-korsan-duzenim)
-  - [📽️ Filmler](#filmler)
-  - [📺 Diziler](#diziler)
-  - [🔞 Icerikler](#icerikler)
-    - [🇯🇵 JAV](#jav)
-    - [🍟 Bati](#bati)
-- [🤝 Katkida Bulun](#katkida-bulun)
-- [📋 Yapilacaklar Listesi](#yapilacaklar-listesi)
+- [🤝 Katkida Bulun](#-katkida-bulun)
+- [📋 Yapilacaklar Listesi](#-yapilacaklar-listesi)
 
 # 🌐 Usenet
 

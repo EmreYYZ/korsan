@@ -131,7 +131,7 @@ Bu iki siteden gozunuze kestirdiginiz icerikleri 🥇 [Sukebei](https://sukebei.
 
 # 🤝 Katkida Bulun
 
-Rehber'e geri donus veya katki yapmak istersen [korsan:matrix.org]() veya GitHub araclarini kullanabilirsin.
+Rehber'e geri donus veya katki yapmak istersen [+korsan:matrix.org](https://matrix.to/#/!vdIkQzvaDaOaIHaqgu:matrix.org?via=matrix.org) veya GitHub araclarini kullanabilirsin.
 
 # 📋 Yapilacaklar Listesi
 

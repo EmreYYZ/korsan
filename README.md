@@ -21,7 +21,7 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Araclari tek basina k
   - [📒 Takip](#-takip)
   - [📚 Indexerlar](#-indexerlar)
   - [🏦 Providerlar](#-providerlar)
-  - [👁️ Playerlar](#-playerlar)
+  - [📼 Playerlar](#-playerlar)
   - [🖥 Donanim](#-donanim)
   - [🧰 Diger Araclar](#-diger-araclar)
   - [🍿 Film Listeleri](#-film-listeleri)
@@ -79,9 +79,9 @@ Providerlar, Indexer'lardan indirdiginiz NZB dosyalarinin isaret ettigi gercek d
 
 🥇 [Eweka](https://www.eweka.nl/en) • 🥈 [UsenetExpress](https://www.usenetexpress.com/) • 🥈 [UsenetServer](https://www.usenetserver.com/)
 
-## 👁️ Playerlar
+## 📼 Playerlar
 
-Izleme yazilimlari, bulundugunuz veya ag uzerindeki depolama araclarindan indirdiginiz ve/ya duzenlediginiz icerikleri izlemenizi saglar. Bu yazilimlar icerige gore internetten poster, IMDB puani, oyuncu listesi gibi meta bilgileri indirir. Iyi izleme programlari, ekstra olarak bu icerikleri adeta Netflix gibi kategorilendirir, trend listeleri cikartir, vb.
+Playerlar, bulundugunuz veya ag uzerindeki depolama araclarindan indirdiginiz ve/ya duzenlediginiz icerikleri izlemenizi saglar. Bu yazilimlar icerige gore internetten poster, IMDB puani, oyuncu listesi gibi meta bilgileri indirir. Iyi izleme programlari, ekstra olarak bu icerikleri adeta Netflix gibi kategorilendirir, trend listeleri cikartir, vb.
 
 🥇 [Infuse](https://firecore.com/infuse/) • 🥈 [Kodi](https://kodi.tv/) • 🥈 [Plex](https://www.plex.tv)
 

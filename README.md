@@ -134,8 +134,9 @@ Rehber'e geri donus veya katki yapmak istersen [+korsan:matrix.org](https://matr
 
 Bu kismi kendim icin bir not defteri gibi kullaniyorum. Cok ciddiye almayin.
 
-- [ ] Stashapp ve ona uygun kategori eklenecek.
-- [ ] Altyazilar ile ilgili bilgiler ekle.
-- [ ] Torrent rehberi ekle. (?)
+- [ ] [[Stashapp | https://github.com/stashapp/stash]], [[Mylar3 | https://github.com/mylar3/mylar3]] ve ona uygun kategori eklenecek.
+- [ ] Altyazilar ile ilgili bilgiler ekle. [ [[Bazarr | https://github.com/morpheus65535/bazarr]] ]
+- [ ] Torrent rehberi ekle. (?) [ [[Jackett | https://github.com/Jackett/Jackett]], [[Transmission + OpenVPN | https://github.com/haugene/docker-transmission-openvpn]] ]
 - [ ] Depolama bilgileri ekle. (NAS Synology / QNAP / vb.)
-- [ ] Muzik bolumu ekle (Soulseeker, vb.)
+- [ ] Muzik bolumu ekle ([[Soulseek | http://www.soulseekqt.net/news/]], [[Lidarr | https://github.com/lidarr/Lidarr]] vb.)
+- [ ] [[Organizr | https://github.com/causefx/Organizr]] / [[Heimdall | https://github.com/linuxserver/Heimdall]] (?)

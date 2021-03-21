@@ -28,7 +28,9 @@ Yalnizca en iyi oldugunu dusundugum araclari paylasiyorum. Araclari tek basina k
   - [🖥 Donanim](#-donanim)
   - [🧰 Diger Araclar](#-diger-araclar)
   - [🍿 Film Listeleri](#-film-listeleri)
-  - [🤡 Ilgili Subredditler](#-ilgili-subredditler)
+  - [🤡 Ilave Okuma](#-ilave-okuma)
+    - [Subredditler](#subredditler)
+    - [Nero's Black Book](#neros-black-book)
 - [🤝 Katkida Bulun](#-katkida-bulun)
 - [📋 Yapilacaklar Listesi](#-yapilacaklar-listesi)
 
@@ -68,7 +70,7 @@ Izlediginiz iceriklerin cetelesini tutan, hem izleme yazilimlari ile, hem de oto
 
 Arsivciler NZB kayitlarini tutarlar. Herhangi bir icerik/yazilim indirmek icin once bir Indexer'dan NZB dosyasini indirmeniz gerekir.
 
-🥇 [DrunkenSlug](https://drunkenslug.com/) • 🥈 [NZBFinder](https://nzbfinder.ws/register?ref=205634) • 🥈 [NZBgeek](https://nzbgeek.info/) • 🥈 [NZB.su](https://nzb.su/)
+🥇 [DrunkenSlug](https://drunkenslug.com/) • 🥈 [NZBFinder](https://nzbfinder.ws/register?ref=205634) • 🥈 [NZBgeek](https://nzbgeek.info/) • 🥈 [NZB.su](https://nzb.su/) • [SimplyNZBs](https://simplynzbs.com) • [Dognzb]() • [omgwtfNZBs.me](omgwtfNZBs.me) • [NZBPlanet]() • [NZBs.in](NZBs.in) • [NZB.cat](NZB.cat) • [Tabula-Rasa](https://www.tabula-rasa.pw) • [Miatrix](https://www.miatrix.com)
 
 ## 🏦 Providerlar
 
@@ -100,11 +102,17 @@ Bu film listelerini otomasyon amaciyla kullanmak icin Radarr'a ekleyebiliyorsunu
 
 [Steven Lu'nun Listeleri](https://github.com/sjlu/popular-movies) • [En Son Cikan 4K Filmler](https://trakt.tv/users/giladg/lists/latest-4k-releases?sort=added,asc) • [Onerdigim Filmler](https://trakt.tv/users/emrecaydin/lists/my-recommendations?display=movie&sort=added,asc) • [Onerdigim Diziler](https://trakt.tv/users/emrecaydin/lists/my-recommendations?display=show&sort=added,asc) • [IMDB Top 250](https://trakt.tv/users/justin/lists/imdb-top-rated-movies?sort=rank,asc) • ["En Iyi Film" Akademi Odulunu Alan Filmler](https://trakt.tv/users/thefork/lists/academy-awards-best-picture-winners?sort=rank,asc) • [Daha Fazlasi...](https://trakt.tv/discover#lists)
 
-## 🤡 Ilgili Subredditler
+## 🤡 Ilave Okuma
+
+### Subredditler
 
 Reddit, baslangic seviyesi icin ve sonrasinda cikabilecek problemlere cozum aramak icin guzel bir kaynak.
 
 [Usenet](https://www.reddit.com/r/usenet/) • [Piracy](https://www.reddit.com/r/Piracy/) • [UsenetInvites](https://www.reddit.com/r/UsenetInvites/) • [Addons4Kodi](https://www.reddit.com/r/Addons4Kodi/) • [Radarr](https://www.reddit.com/r/radarr/) • [Sonarr](https://www.reddit.com/r/sonarr) • [AppleTV](https://www.reddit.com/r/appletv/) • [PleX](https://www.reddit.com/r/PleX/) • [Kodi](https://www.reddit.com/r/kodi/)
+
+### Nero's Black Book
+
+[Nero's Black Book](https://nerosbb.com/index.php) indexerlar, providerlar ve genel olarak usenet'le ilgili guzel bililer iceriyor. Bu rehbere benzer ozelliklere sahip.
 
 <!-- # 👨 Benim Korsan Duzenim
 
@@ -138,5 +146,6 @@ Bu kismi kendim icin bir not defteri gibi kullaniyorum. Cok ciddiye almayin.
 - [ ] Altyazilar ile ilgili bilgiler ekle. [ [Bazarr](https://github.com/morpheus65535/bazarr) ]
 - [ ] Torrent rehberi ekle. (?) [ [Jackett](https://github.com/Jackett/Jackett), [Transmission + OpenVPN](https://github.com/haugene/docker-transmission-openvpn) ]
 - [ ] Depolama bilgileri ekle. (NAS Synology / QNAP / vb.)
+- [ ] Kitap bolumu ([LazyLibrarian](https://lazylibrarian.gitlab.io))
 - [ ] Muzik bolumu ekle ([Soulseek](http://www.soulseekqt.net/news/), [Lidarr](https://github.com/lidarr/Lidarr), vb.)
 - [ ] [Organizr](https://github.com/causefx/Organizr) / [Heimdall](https://github.com/linuxserver/Heimdall) (?)

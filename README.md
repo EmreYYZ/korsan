@@ -18,7 +18,7 @@ Madalyalar kisisel goruslerime gore veriliyor. Genel olarak Altin ve Gumus madal
 
 🥉 En iyiyi ve sonrakini kullanamiyorsaniz, kullanilabilecek iyi bir tercih.
 
-🤔 Hic denemedim.
+🤔 Denemedim.
 
 ## Icindekiler
 

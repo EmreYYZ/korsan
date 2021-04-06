@@ -20,11 +20,11 @@ Madalyalar kisisel goruslerime gore veriliyor. Genel olarak Altin ve Gumus madal
 
 🤔 Hic denemedim.
 
-## Icindekiler
+## 📋 Icindekiler
 
 - [🏴‍☠️ Mega Korsan Listesi](#️-mega-korsan-listesi)
     - [🗺 Gostergeler](#-gostergeler)
-  - [Icindekiler](#icindekiler)
+  - [📋 Icindekiler](#-icindekiler)
 - [🌐 Usenet](#-usenet)
   - [VPN](#vpn)
   - [📥 Downloaderlar](#-downloaderlar)
@@ -95,9 +95,9 @@ Arsivciler NZB kayitlarini tutarlar. Herhangi bir icerik/yazilim indirmek icin o
 
 ## 🏦 Providerlar
 
-Providerlar, Indexer'lardan indirdiginiz NZB dosyalarinin isaret ettigi gercek dosyalari barindirir. Standart yontem birden fazla barindirici kullanmaktir, zira korsanla mucadele icin dosyalarin belli partlari silinebiliyor. Barindiricilar birbirlerini tamamliyor. Bu kisim cok onemli ve detayli bir aciklamaya ihtiyac var. Eger birden fazla provider'a uye olacaksaniz, bunlarin farkli firmalardan veri cekiyor olmasi gerekiyor ki bir ise yarasinlar. X ve Y provider'lari eger ayni agactaysa, X'te banlanan dosya Y'de de banlaniyor.
+Providerlar, Indexer'lardan indirdiginiz NZB dosyalarinin isaret ettigi gercek dosyalari barindirir. Standart yontem birden fazla barindirici kullanmaktir, zira korsanla mucadele icin dosyalarin belli partlari silinebiliyor. Barindiricilar birbirlerini tamamliyor. Bu kisim cok onemli ve detayli bir aciklamaya ihtiyac var. Eger birden fazla provider'a uye olacaksaniz, bunlarin farkli firmalardan veri cekiyor olmasi gerekiyor ki bir ise yarasinlar. X ve Y provider'lari eger ayni agactaysa, X'te banlanan dosya Y'de de banlaniyor. Bu sebeple [haritayi](https://upload.wikimedia.org/wikipedia/commons/7/7d/Usenet_Providers_and_Backbones.svg) kontrol etmenizde fayda var.
 
-🥇 [Eweka](https://www.eweka.nl/en) • 🥈 [UsenetExpress](https://www.usenetexpress.com/) • 🥈 [UsenetServer](https://www.usenetserver.com/)
+🥇 [Eweka](https://www.eweka.nl/en) • 🥇 [TweakNews]() • 🥈 [UsenetExpress](https://www.usenetexpress.com/) • 🥈 [UsenetServer](https://www.usenetserver.com/)
 
 ## 📼 Playerlar
 
